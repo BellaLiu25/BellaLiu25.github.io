@@ -103,10 +103,10 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://github.com/BellaLiu25"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/bellaliu2002/"
 
 
 # Site Footer
@@ -117,7 +117,7 @@ footer:
       url: "https://github.com/BellaLiu25"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/bellaliu2002/"
 
 
 # Reading Files
