@@ -3,7 +3,7 @@ title: "Hydrogen Fuel Cell Research"
 excerpt: "Membrane characterization for Pittsburg Paint Glass."
 header:
   image: /assets/img/MEA.JPG
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/MEA.JPG
 gallery:
   - url: /assets/img/SEM machine.JPG
     image_path: /assets/img/SEM machine.JPG
