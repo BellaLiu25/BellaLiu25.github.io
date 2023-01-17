@@ -8,8 +8,8 @@ gallery:
   - url: /assets/img/MEA.JPG
     image_path: /assets/img/MEA.JPG
     alt: "placeholder image 1"
-  - url: assets/img/Cross Sectional 30-M-30kX.pdf
-    image_path: assets/img/Cross Sectional 30-M-30kX.pdf
+  - url: /assets/img/Cross Sectional 30-M-30kX.jpg
+    image_path: /assets/img/Cross Sectional 30-M-30kX.jpg
     alt: "placeholder image 2"
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
