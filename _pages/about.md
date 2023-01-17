@@ -22,4 +22,4 @@ Bella has the experience of using a wide variety of instruments and softwares fo
 
 
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<IMG_8701.jpg>
