@@ -22,4 +22,4 @@ Bella has the experience of using a wide variety of instruments and softwares fo
 
 
 
-![personal picture](/IMG_8701.jpg)
+![personal picture](/assets/img/IMG_8701.JPG)
