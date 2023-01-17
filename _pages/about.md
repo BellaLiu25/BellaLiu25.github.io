@@ -18,7 +18,7 @@ Bella is an aspiring, performance-driven second-year undergraduate student major
 Bella has the experience of using a wide variety of instruments and softwares for electrochemical analysis. She is proficient in operating/utilizing the following devices and softwares:
 * Scanning Electron Microscope (SEM)
 * Gamry Software
- * A software for running a large number of electrochemical experiments (e.g. linear sweep voltammetry, electrochemical impedance spectroscopy, cyclic voltammetry…)
+  * A software for running a large number of electrochemical experiments (e.g. linear sweep voltammetry, electrochemical impedance spectroscopy, cyclic voltammetry…)
 
 
 ## Press 
