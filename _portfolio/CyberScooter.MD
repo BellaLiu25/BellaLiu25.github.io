@@ -5,7 +5,7 @@ header:
   image: /assets/img/SEM machine.JPG
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/MEA.JPG
     image_path: assets/img/Cyber-Scooter-1.jpg
     alt: "placeholder image 1"
   - url: /assets/img/Cyber-Scooter-2.jpg
