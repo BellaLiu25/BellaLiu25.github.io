@@ -9,8 +9,8 @@ title: "About Bella Liu"
 David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
 * Vanderbilt University
-  * BS Mathematics
-  * BS Biomedical Engineering
+  * B.E. in Chemical Engineering
+  * Minor: Materials Science, Engineering Management
 
 
 ## Technical Skills
