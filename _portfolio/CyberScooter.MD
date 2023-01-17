@@ -6,10 +6,10 @@ header:
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/MEA.JPG
-    image_path: assets/img/Cyber-Scooter-1.jpg
+    image_path: /assets/img/MEA.JPG
     alt: "placeholder image 1"
   - url: /assets/img/Cross Sectional 30-M-30kX copy.tif
-    image_path: assets/img/Cyber-Scooter-2.jpg
+    image_path: /assets/img/Cross Sectional 30-M-30kX copy.tif
     alt: "placeholder image 2"
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
