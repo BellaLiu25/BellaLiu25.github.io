@@ -12,7 +12,7 @@ gallery:
 ---
 
 * Sinova Specialties Inc. is a global supplier of chemical products. 
-* During her internship at Sinova, Bella helped with developing a new chemical product worth more than 1 million dollars. 
+* During her internship at Sinova, Bella helped in developing a new chemical product worth more than 1 million dollars. 
   * She successfully located 3 factories in China who are willing to and capable of producing highly hazardous materials (high pressure synthesis of chemicals using phosphine gas as reactants) for commercial application. 
 * She also assisted the company in purchasing $12,000 worth of chemicals. 
 
