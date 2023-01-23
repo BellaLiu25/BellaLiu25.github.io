@@ -13,11 +13,11 @@ feature_row:
   - image_path: assets/img/SEM machine.JPG
     alt: "SEM Machine"
     title: "SEM Machine"
-    excerpt: "Used for determining the porosty of membranes."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    excerpt: "Used for determining the porosity of membranes."
+  - image_path: assets/img/MEA.JPG
+    alt: "MEA image"
+    title: "This machine is used to evaluate the performance of the MEA."
+    excerpt: "The MEA."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
