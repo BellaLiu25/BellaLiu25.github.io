@@ -17,4 +17,4 @@ gallery:
 * She also assisted the company in purchasing $12,000 worth of chemicals. 
 
 
-{% include gallery caption="Gallery of Different Factories in Collaboration" %}
+{% include gallery caption="Gallery of Different Factories in Collaboration with" %}
