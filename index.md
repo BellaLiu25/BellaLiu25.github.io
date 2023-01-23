@@ -17,7 +17,7 @@ feature_row:
   - image_path: assets/img/MEA.JPG
     alt: "MEA image"
     title: "MEA testing"
-    excerpt: "This machine is used to evaluate the performance of the MEA."
+    excerpt: "This assembly is used to evaluate the performance of the MEA."
   - image_path: assets/img/Factory 2.png
     title: "Chemical Factory"
     excerpt: "Liaised with factories that are willing to produce highly hazardous chemical products."
