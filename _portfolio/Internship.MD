@@ -2,11 +2,11 @@
 title: "Intern at Sinova Specialties Inc."
 excerpt: "Helped developing new chemical products."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: assets/img/Factory 2.png
+  teaser: assets/img/Factory 2.png
 gallery:
   - image_path: assets/img/Factory 1.png
-  - image_path: assets/img/Slide-2.png
+  - image_path: assets/img/Factory 3.png
   - image_path: assets/img/Slide-4.png
    
 ---
