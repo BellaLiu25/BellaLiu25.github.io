@@ -1,6 +1,6 @@
 ---
 title: "Internship at Sinova Specialties Inc."
-excerpt: "Helped developing new chemical products."
+excerpt: "Helped in developing new chemical products."
 header:
   
   teaser: assets/img/Factory 2.png
