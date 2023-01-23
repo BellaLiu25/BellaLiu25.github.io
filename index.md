@@ -8,8 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Bella Liu is a second-year undergraduate student studying chemical engineering, materials science, and engineering management. She is passionate about exploring clean energy alternatives. She has delved into research in hydrogen fuel cells. 
-She is also interested in exploring the global market and bridging the gap between resources and needs. Specifically, she would like to do international trade in the realm of chemical products. She aims to promote the development of cleaner energy via the better connection of technology, goods, and market."
+excerpt: "Bella Liu is a second-year undergraduate student studying chemical engineering, materials science, and engineering management. She is passionate about exploring clean energy alternatives. She has delved into research in hydrogen fuel cells.  She is also interested in exploring the global market and bridging the gap between resources and needs. Specifically, she would like to do international trade in the realm of chemical products. She aims to promote the development of cleaner energy via the better connection of technology, goods, and market."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
