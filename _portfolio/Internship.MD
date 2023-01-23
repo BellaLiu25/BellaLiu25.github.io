@@ -7,7 +7,7 @@ header:
 gallery:
   - image_path: assets/img/Factory 1.png
   - image_path: assets/img/Factory 3.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/Factory 2.png
    
 ---
 
