@@ -16,11 +16,11 @@ feature_row:
     excerpt: "Used for determining the porosity of membranes."
   - image_path: assets/img/MEA.JPG
     alt: "MEA image"
-    title: "This machine is used to evaluate the performance of the MEA."
-    excerpt: "The MEA."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "MEA testing"
+    excerpt: "This machine is used to evaluate the performance of the MEA."
+  - image_path: assets/img/Factory 2.png
+    title: "Chemical Factory"
+    excerpt: "Liaised with factories that are willing to produce highly hazardous chemical products."
 ---
 
 {% include feature_row %}
